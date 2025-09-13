@@ -1,0 +1,1 @@
+Developed an efficient ensemble-based system for automated detection of apple plant diseases, combining multiple classifiers to achieve superior accuracy and robustness. This project aids farmers in early disease detection, reducing crop loss and improving agricultural productivity
